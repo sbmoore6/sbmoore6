@@ -6,5 +6,6 @@ Projects I have worked on:
   - geographical art analysis and visualizations
   - LLMs and large text windows
   - labratory operations analysis
+
 My diverse professsional bakcground helps me see cross-domain solutions
 

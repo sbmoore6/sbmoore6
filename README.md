@@ -7,5 +7,5 @@ Projects I have worked on:
   - LLMs and large text windows
   - labratory operations analysis
 
-My diverse professsional bakcground helps me see cross-domain solutions
+My diverse professsional background helps me see cross-domain solutions
 
